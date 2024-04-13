@@ -1,0 +1,1 @@
+It's an appointment booking app for healthcare, built with Java and SQLite. Users can schedule appointments based on location, specialty, and time slots. The app securely stores user and appointment data in SQLite.
